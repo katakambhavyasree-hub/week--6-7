@@ -1,4 +1,4 @@
-# Week 10 – Working Attendance Log 
+# Week 6,7 – Working Attendance Log 
 
 ## Overview
 
